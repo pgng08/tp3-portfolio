@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: darkslategray;
+    color: white;
+    margin: 0;
+}
+
+header {
+    padding: 1em;
+    color: gold;
+}
+
+nav {
+    padding: 1em;
+    background-color: black;
+}
+
+a {
+    padding: 1em;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover {
+    background-color: gray;
+}
+
+main {
+    padding: 1em;
+}
+
+.avatar {
+    border: 5px solid gold;
+    background-color: white;
+    border-radius: 100px;
+}
+
+table,
+th,
+td {
+    border: 1px solid gold;
+}
+
+th,
+td {
+    padding: 1em;
+}
+
+li{ padding: 1em;
+
+}
